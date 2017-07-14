@@ -24,3 +24,7 @@ _testmain.go
 *.prof
 
 sshfs/
+
+# Vagrant
+*.log
+.vagrant/
