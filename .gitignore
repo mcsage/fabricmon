@@ -25,6 +25,10 @@ _testmain.go
 
 sshfs/
 
+# ibsim
+sys-*/
+
 # Vagrant
 *.log
 .vagrant/
+vagrant
